@@ -13,4 +13,4 @@ I am documenting the entire design and assembly process step-by-step on my blog:
 ### 🏆 Support the project!
 This project is officially entered in the contest. If you like the design, please drop a reaction (like a 👍 or ❤️) on the official submission entry here:
 
-👉 [Seeed Studio Build-Off Entry #10](https://github.com/Seeed-Projects/meshtastic-build-of
+👉 [Seeed Studio Build-Off Entry #10](https://github.com/Seeed-Projects/meshtastic-build-off-2026/issues/10)
