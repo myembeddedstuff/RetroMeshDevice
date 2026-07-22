@@ -4,7 +4,9 @@ An off-grid handheld communicator built for the **Meshtastic Build-Off 2026** ha
 
 The goal is to build a standalone device that runs Meshtastic natively, using an ESP32-S3 and a custom 12-button T9 physical keypad (driven by an MCP23017 I/O expander).
 
-![RetroMeshDevice PCB](images/Retromeshdevice_powered_off.jpg)
+<p align="center">
+  <img src="images/Retromeshdevice_powered_off.jpg"  width="40%" />
+</p>
 
 ---
 
@@ -13,16 +15,17 @@ The goal is to build a standalone device that runs Meshtastic natively, using an
 RetroMeshDevice (RMD) is a custom-built, standalone Meshtastic node in a retro phone form factor. Unlike phone-paired setups, it's a self-contained device with its own screen, keypad, battery, and LoRa radio built from scratch around a T9 physical keypad instead of a touchscreen or QWERTY layout.
 
 It's designed as an alternative for people who want a dedicated, pocketable Meshtastic node without depending on a smartphone to configure, send, or read messages
+<p align="center">
+  <img src="images/Retromeshdevice_running.jpg"  width="40%" />
+</p>
 
 ---
-
-![RetroMeshDevice PCB](images/Retromeshdevice_pcb.png)
-
 I am documenting the entire design and assembly process step-by-step on my blog:
 * **Part 1 (Schematic & Design):** [myembeddedstuff.com/meshtastic-build-off-2026-retromeshdevice](https://myembeddedstuff.com/meshtastic-build-off-2026-retromeshdevice)
 * **Part 2 (PCB Assembly):** [myembeddedstuff.com/meshtastic-build-off-2026-pcb-assembly](https://myembeddedstuff.com/meshtastic-build-off-2026-pcb-assembly)
 * **Part 3 (Firmware Validation & Power Consumption):** [myembeddedstuff.com/meshtastic-build-off-2026-hardware-bring-up](https://myembeddedstuff.com/meshtastic-build-off-2026-hardware-bring-up)
 
+<img src="images/Retromeshdevice_pcb.png" width="40%" />
 ---
 
 ### 📂 Repository structure
