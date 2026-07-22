@@ -4,7 +4,7 @@ An off-grid handheld communicator built for the **Meshtastic Build-Off 2026** ha
 
 The goal is to build a standalone device that runs Meshtastic natively, using an ESP32-S3 and a custom 12-button T9 physical keypad (driven by an MCP23017 I/O expander).
 
-![RetroMeshDevice PCB](Images/Retromeshdevice_running.jpg)
+![RetroMeshDevice PCB](images/Retromeshdevice_running.jpg)
 
 ---
 
@@ -16,7 +16,7 @@ It's designed as an alternative for people who want a dedicated, pocketable Mesh
 
 ---
 
-![RetroMeshDevice PCB](Images/Retromeshdevice_pcb.png)
+![RetroMeshDevice PCB](images/Retromeshdevice_pcb.png)
 
 I am documenting the entire design and assembly process step-by-step on my blog:
 * **Part 1 (Schematic & Design):** [myembeddedstuff.com/meshtastic-build-off-2026-retromeshdevice](https://myembeddedstuff.com/meshtastic-build-off-2026-retromeshdevice)
